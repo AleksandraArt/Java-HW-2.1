@@ -17,4 +17,4 @@
 В ходе тестирования выведено 100% не успешны тестов.
 
 ## Ссылка на баг-репорт: 
-https://github.com/AleksandraArt/javahw2/issues/1
+[При_переводе_на_счет_клиента_суммы_отображается_отрицательный_баланс](https://github.com/AleksandraArt/javahw2/issues/1)
